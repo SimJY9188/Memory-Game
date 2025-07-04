@@ -2,8 +2,7 @@
 
 - React
 - JavaScript
-- Tailwind CSS
-- Local Storage
+- CSS Transition
 
 ## Project Setup
 
@@ -25,3 +24,7 @@ npm run dev
 
 The program will run on your browser's localhost server. \
 Example: http://localhost:5173/
+
+## Preview of the final output
+
+![Screenshot 2025-07-04 090234](https://github.com/user-attachments/assets/e8b51a19-3a59-4830-b559-8e61b1d72c63)
