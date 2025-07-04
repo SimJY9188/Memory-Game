@@ -35,10 +35,10 @@ function MemoryGame () {
         setMoves((prev) => prev + 1);
     }
 
-    useEffect(() => {
-        if (!loadedCards) return;
-        console.log(cardsArray);
-    }, [cardsArray]);
+    // useEffect(() => {
+    //     if (!loadedCards) return;
+    //     console.log(cardsArray);
+    // }, [cardsArray]);
 
     useEffect(() => {
         // set data in random order
